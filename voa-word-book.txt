@@ -200,13 +200,16 @@ car – n. a vehicle with wheels used to carry people; an automobile; a part of 
 care – v. to like; to protect; to feel worry or interest
 career – n. a chosen profession; a person’s working life (“The actor’s career lasted for thirty years.”)
 careful – ad. acting safely; with much thought
-carry – v. to take something or someone from one place to another case (court) – n. a legal action case (medical) – n. an incident of disease (“There was only one case of chicken pox at the school.”)
+carry – v. to take something or someone from one place to another
+case (court) – n. a legal action
+case (medical) – n. an incident of disease (“There was only one case of chicken pox at the school.”)
 cat – n. a small animal that often lives with humans
 catch – v. to seize after a chase; to stop and seize with the hands
 cause – v. to make happen; n. the thing or person that produces a result
 ceasefire – n. a halt in fighting, usually by agreement
 celebrate – v. to honor a person or event with special activities
 cell – n. a small mass of living material that is part of all plants and animals
+center � n. the middle of something; the place in the middle; a place that is the main point of an activity
 century – n. one hundred years
 ceremony – n. an act or series of acts done in a special way established by tradition
 chairman – n. a person leading a meeting or an organized group
@@ -223,12 +226,12 @@ chief – n. the head or leader of a group; ad. leading; most important
 child – n. a baby; a boy or girl
 children – n. more than one child
 choose – v. to decide between two or more
-center – n. the middle of something; the place in the middle; a place that is the main point of an activity
 chromosome – n. a line of genes; most human cells contain 46 chromosomes
 circle – n. a closed shape that has all its points equally distant from the center, like an “O”
 citizen – n. a person who is a member of a country by birth or by law
 city – n. any important large town
-civilian – ad. not military civil rights – n. the political, economic and social rights given equally to all people of a nation
+civilian – ad. not military
+civil rights – n. the political, economic and social rights given equally to all people of a nation
 claim – v. to say something as a fact
 clash – n. a battle; v. to fight or oppose
 class – n. a group of students who meet to study the same subject; also a social or economic group. (“They were members of the middle class.”)
@@ -274,7 +277,8 @@ condition – n. something declared necessary to complete an agreement; a person
 conference – n. a meeting
 confirm – v. to approve; to say that something is true
 conflict – n. a fight; a battle, especially a long one
-congratulate – v. to praise a person or to express pleasure for success or good luck Congress – n. the organization of people elected to make the laws of the United States (the House of Representatives and the Senate); a similar organization in other countries Congress – copy
+congratulate – v. to praise a person or to express pleasure for success or good luck
+Congress – n. the organization of people elected to make the laws of the United States (the House of Representatives and the Senate); a similar organization in other countries
 connect – v. to join one thing to another; to unite; to link
 conservative – n. one who usually supports tradition and opposes great change
 consider – v. to give thought to; to think about carefully
