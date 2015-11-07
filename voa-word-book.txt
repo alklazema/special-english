@@ -697,7 +697,6 @@ inform – v. to tell; to give knowledge to
 information – n. knowledge; facts
 inject – v. to force a fluid into, such as putting medicine or drugs into the body through the skin
 injure – v. to cause harm or damage to a person or animal
-innocent – Internet
 innocent – ad. not guilty of a crime; not responsible for a bad action
 insane – ad. mentally sick
 insect – n. a very small creature, usually with many legs and sometimes with wings
@@ -710,7 +709,8 @@ intelligent – ad. quick to understand or learn
 intense – ad. very strong; extremely serious
 interest – n. what is important to someone (“He acted to protect his interests.” “She had a great interest in painting.”); a share in owning a business; money paid for the use “of money borrowed
 interfere – v. to get in the way of; to work against; to take part in the activities of others, especially when not asked to do so
-international – ad. of or about more than one nation or many nations; of the whole world Internet – n. the extensive communications system that connects computers around the world
+international – ad. of or about more than one nation or many nations; of the whole world
+Internet – n. the extensive communications system that connects computers around the world
 intervene – v. to come between; to come between in order to settle or solve
 invade – v. to enter an area or country by force with an army
 invent – v. to plan and make something never made before; to create a new thing or way of doing something
