@@ -1478,7 +1478,8 @@ weak – ad. having little power; easily broken, damaged or destroyed; opposite 
 wealth – n. a large amount of possessions, money or other things of value
 weapon – n. anything used to cause injury or to kill during an attack, fight or war
 wear – v. to have on the body, as clothes
-weather – n. the condition of the atmosphere resulting from sun, wind, rain, heat or cold Web site – n. a collection of information prepared by a person or organization on the World Wide Web of the Internet
+weather – n. the condition of the atmosphere resulting from sun, wind, rain, heat or cold
+Web site – n. a collection of information prepared by a person or organization on the World Wide Web of the Internet
 week – n. a period of time equal to seven days
 weigh – v. to measure how heavy someone or something is
 welcome – v. to express happiness or pleasure when someone arrives or something develops
@@ -1527,7 +1528,8 @@ wound – v. to injure; to hurt; to cause physical damage to a person or animal;
 wreck – v. to damage greatly; to destroy; n. anything that has been badly damaged or broken
 wreckage – n. what remains of something severely damaged or destroyed
 write – v. to use an instrument to make words appear on a surface, such as paper
-wrong – ad. not correct; bad; not legal; opposite right x–ray – n. a kind of radiation that can pass through most solid material, often used in medicine
+wrong – ad. not correct; bad; not legal; opposite right
+x–ray – n. a kind of radiation that can pass through most solid material, often used in medicine
 year – n. a period of time equal to twelve months
 yellow – ad. having the color like that of gold or the sun
 yes – ad. used to express agreement or to permit
